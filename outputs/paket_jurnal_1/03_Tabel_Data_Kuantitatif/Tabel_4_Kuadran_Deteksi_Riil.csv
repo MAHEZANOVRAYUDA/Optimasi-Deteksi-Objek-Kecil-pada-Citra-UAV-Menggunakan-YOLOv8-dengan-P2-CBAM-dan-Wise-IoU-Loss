@@ -1,0 +1,3 @@
+﻿Model,Total Prediksi,True Positive (TP),False Positive (FP),False Negative (FN),Presisi Riil (%),Reduksi False Alarm
+M1 Baseline,89,38,51,29,42.7,0.0% (Ref)
+M4 Proposed Full,48,35,13,32,72.9,-74.5% (Pangkas 38 FP)

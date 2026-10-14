@@ -1,0 +1,5 @@
+﻿Model ID,Konfigurasi Model,Precision (%),Recall (%),mAP@50 (%),mAP@50-95 (%),mAP_small (%)
+M1,Baseline YOLOv8s,37.9,27.74,25.86,14.81,21.98
+M2,+ P2 Layer (Stride 4),48.48,18.86,16.24,8.15,13.75
+M3,+ P2 + CBAM Attention,39.75,20.14,17.05,8.61,14.37
+M4,Proposed Full (+ WIoU v3),48.68,19.26,15.96,7.72,14.16

@@ -1,0 +1,29 @@
+# Raw downloads archive & temporary downloads
+data/downloads/
+
+# YOLO label cache
+*.cache
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing & Coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Graphify temporary cache
+graphify-out/cache/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak

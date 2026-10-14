@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-10-13 10:30:54",
+  "platform": {
+    "os_name": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "architecture": "AMD64",
+    "processor": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel"
+  },
+  "python": {
+    "version": "3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]",
+    "executable": "C:\\Users\\aseps\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+  },
+  "frameworks": {
+    "torch_version": "2.13.0+cu126",
+    "cuda_available": true,
+    "cuda_version": "12.6",
+    "cudnn_version": 91002,
+    "ultralytics_version": "8.3.40",
+    "opencv_version": "4.10.0",
+    "numpy_version": "2.2.3",
+    "pandas_version": "2.2.3"
+  },
+  "hardware": {
+    "gpu_name": "NVIDIA GeForce RTX 2050",
+    "gpu_count": 1,
+    "vram_total_gb": 4.0
+  },
+  "reproducibility": {
+    "seed": 42,
+    "test_dataset_size": 98,
+    "manifest_total_images": 548,
+    "train_clean_against_test": true,
+    "batch_training_actual": 4,
+    "epochs_training_actual": 20,
+    "optimizer_actual": "auto (AdamW)",
+    "lr0_actual": 0.01,
+    "amp_actual": true,
+    "half_actual": true
+  }
+}

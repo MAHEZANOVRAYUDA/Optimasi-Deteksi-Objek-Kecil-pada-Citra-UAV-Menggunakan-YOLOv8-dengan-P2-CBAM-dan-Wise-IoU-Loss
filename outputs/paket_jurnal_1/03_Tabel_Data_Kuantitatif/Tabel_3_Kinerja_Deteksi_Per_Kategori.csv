@@ -1,0 +1,5 @@
+﻿Model ID,Pedestrian (AP50),People (AP50),Bicycle (AP50),Motor (AP50),Car (AP50),Rerata Semua Kelas (mAP50)
+M1 Baseline,27.36,31.51,9.51,33.08,74.91,25.86
+M2 (+ P2),22.99,27.6,2.14,29.64,71.04,16.24
+M3 (+ CBAM),23.76,27.36,2.52,29.04,69.42,17.05
+M4 Proposed,24.5,23.8,3.49,25.8,66.2,15.96

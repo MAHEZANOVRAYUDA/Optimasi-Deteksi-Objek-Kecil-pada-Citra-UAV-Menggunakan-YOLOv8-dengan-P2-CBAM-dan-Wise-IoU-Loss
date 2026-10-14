@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\caption{Benchmark Efisiensi Inferensi End-to-End pada GPU Laptop NVIDIA RTX 2050}
+\label{tab:hardware_efficiency}
+\begin{tabular}{lcccccccc}
+\toprule
+Model & Params (M) & Preprocess (ms) & Inference (ms) & NMS Postprocess (ms) & Total Latency p50 (ms) & Total Latency p95 (ms) & Throughput FPS & Peak VRAM (MB) \\
+\midrule
+Model 1 Baseline & 11.130000 & 1.900000 & 9.570000 & 1.740000 & 22.910000 & 26.790000 & 43.700000 & 248.600000 \\
+Model 2 P2 & 10.630000 & 1.810000 & 13.500000 & 1.510000 & 25.760000 & 27.450000 & 38.800000 & 268.400000 \\
+Model 3 P2 CBAM & 10.630000 & 1.840000 & 14.130000 & 1.590000 & 27.110000 & 29.640000 & 36.900000 & 269.000000 \\
+Model 4 Proposed Full & 10.630000 & 1.740000 & 14.110000 & 1.530000 & 26.990000 & 29.640000 & 37.100000 & 269.000000 \\
+\bottomrule
+\end{tabular}
+\end{table}

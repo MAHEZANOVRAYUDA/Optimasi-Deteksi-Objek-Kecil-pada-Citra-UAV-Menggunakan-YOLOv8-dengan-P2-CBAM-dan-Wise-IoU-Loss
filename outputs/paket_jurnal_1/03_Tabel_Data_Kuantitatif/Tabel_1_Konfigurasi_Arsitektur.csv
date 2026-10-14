@@ -1,0 +1,5 @@
+﻿Model ID,Konfigurasi Arsitektur,Detection Heads,Atensi (Attention),Fungsi Kerugian,Parameter (M),GFLOPs
+M1,Baseline YOLOv8s,"3 Heads (P3, P4, P5)",Tanpa Atensi,CIoU + DFL,11.13,28.6
+M2,YOLOv8s + P2,4 Heads (P2–P5),Tanpa Atensi,CIoU + DFL,10.63,36.7
+M3,YOLOv8s + P2 + CBAM,4 Heads (P2–P5),CBAM pada P2 & P3,CIoU + DFL,10.64,37.0
+M4,Proposed Full (WIoU v3),4 Heads (P2–P5),CBAM pada P2 & P3,WIoU v3 + DFL,10.64,37.0

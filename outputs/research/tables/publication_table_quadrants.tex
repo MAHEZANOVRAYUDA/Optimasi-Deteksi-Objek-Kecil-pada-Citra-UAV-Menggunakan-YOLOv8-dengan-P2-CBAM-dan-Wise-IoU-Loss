@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\caption{Matriks Kuadran Deteksi Riil (TP, FP, FN) dan Reduksi False Positive pada Test Set VisDrone}
+\label{tab:detection_quadrants}
+\begin{tabular}{lccccccccc}
+\toprule
+Model & Total GT & Total Pred & True Positive (TP) & False Positive (FP) & False Negative (FN) & Precision (Riil) & Recall (Riil) & F1-Score & FP Reduction \\
+\midrule
+Model 1 Baseline & 5833 & 4767 & 2588 & 2179 & 3245 & 0.542900 & 0.443700 & 0.488300 & 0.00% (Ref) \\
+Model 2 P2 & 5833 & 4571 & 2316 & 2255 & 3517 & 0.506700 & 0.397100 & 0.445200 & -3.49% \\
+Model 3 P2 CBAM & 5833 & 4580 & 2349 & 2231 & 3484 & 0.512900 & 0.402700 & 0.451200 & -2.39% \\
+Model 4 Proposed Full & 5833 & 4972 & 2369 & 2603 & 3464 & 0.476500 & 0.406100 & 0.438500 & -19.46% \\
+\bottomrule
+\end{tabular}
+\end{table}

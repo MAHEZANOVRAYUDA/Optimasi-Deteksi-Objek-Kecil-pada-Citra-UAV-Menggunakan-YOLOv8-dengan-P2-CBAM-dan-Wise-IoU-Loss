@@ -1,0 +1,5 @@
+﻿Model,Prapemrosesan,Inferensi Tensor,NMS Pascaproses,Total Latensi (p50),Throughput (FPS),Peak VRAM,Status Real-Time (>30 FPS)
+M1 Baseline,1.90 ms,9.57 ms,1.74 ms,22.91 ms,43.7,248.6 MB,Memenuhi
+M2 (+ P2),1.81 ms,13.50 ms,1.51 ms,25.76 ms,38.8,268.4 MB,Memenuhi
+M3 (+ CBAM),1.84 ms,14.13 ms,1.59 ms,27.11 ms,36.9,269.0 MB,Memenuhi
+M4 Proposed Full,1.74 ms,14.11 ms,1.53 ms,26.99 ms,37.1,269.0 MB,Memenuhi (+23.7% Margin)

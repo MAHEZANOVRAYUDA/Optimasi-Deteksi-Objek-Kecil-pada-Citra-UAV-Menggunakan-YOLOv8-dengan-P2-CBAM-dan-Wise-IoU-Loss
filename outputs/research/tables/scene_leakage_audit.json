@@ -1,0 +1,20 @@
+{
+  "file_counts": {
+    "train": 350,
+    "val": 100,
+    "test": 98
+  },
+  "unique_scenes": {
+    "train": 51,
+    "val": 16,
+    "test": 11
+  },
+  "leakage_train_val": [
+    "0000291"
+  ],
+  "leakage_train_test": [],
+  "leakage_val_test": [
+    "0000333"
+  ],
+  "train_test_clean": true
+}

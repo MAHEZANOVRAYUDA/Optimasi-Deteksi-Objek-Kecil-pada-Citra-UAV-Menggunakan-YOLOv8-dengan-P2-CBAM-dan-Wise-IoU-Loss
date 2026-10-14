@@ -1,0 +1,318 @@
+TY  - JOUR
+AU  - Tan, S.
+AU  - Duan, Z.
+AU  - Pu, L.
+TI  - Multi-scale object detection in UAV images based on adaptive feature fusion
+T2  - PLOS ONE
+PY  - 2024
+DO  - 10.1371/journal.pone.0300120
+UR  - https://doi.org/10.1371/journal.pone.0300120
+L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0300120&type=printable
+ER  - 
+
+TY  - JOUR
+AU  - Feng, F.
+AU  - Hu, Y.
+AU  - Li, W.
+AU  - Yang, F.
+TI  - Improved YOLOv8 algorithms for small object detection in aerial imagery
+T2  - Journal of King Saud University - Computer and Information Sciences
+PY  - 2024
+DO  - 10.1016/j.jksuci.2024.102113
+UR  - https://doi.org/10.1016/j.jksuci.2024.102113
+L1  - https://link.springer.com/article/10.1016/j.jksuci.2024.102113
+ER  - 
+
+TY  - JOUR
+AU  - Xu, L.
+AU  - Zhao, Y.
+AU  - Zhai, Y.
+AU  - Huang, L.
+AU  - Ruan, C.
+TI  - Small object detection in UAV images based on YOLOv8n
+T2  - International Journal of Computational Intelligence Systems
+PY  - 2024
+DO  - 10.1007/s44196-024-00632-3
+UR  - https://doi.org/10.1007/s44196-024-00632-3
+L1  - https://link.springer.com/article/10.1007/s44196-024-00632-3
+ER  - 
+
+TY  - JOUR
+AU  - Liao, D.
+AU  - Zhang, J.
+AU  - Tao, Y.
+AU  - Jin, X.
+TI  - ATBHC-YOLO: aggregate transformer and bidirectional hybrid convolution for small object detection
+T2  - Complex & Intelligent Systems
+PY  - 2025
+DO  - 10.1007/s40747-024-01652-4
+UR  - https://doi.org/10.1007/s40747-024-01652-4
+L1  - https://link.springer.com/article/10.1007/s40747-024-01652-4
+ER  - 
+
+TY  - JOUR
+AU  - Li, S.
+AU  - Wang, Z.
+AU  - Liang, J.
+AU  - Wang, Y.
+TI  - Small object detection in UAV scenarios based on YOLOv5
+T2  - Computer Modeling in Engineering & Sciences
+PY  - 2025
+DO  - 10.32604/cmes.2025.073896
+UR  - https://doi.org/10.32604/cmes.2025.073896
+L1  - https://www.techscience.com/CMES/v145n3/65003/html
+ER  - 
+
+TY  - JOUR
+AU  - Zeng, Y.
+AU  - Zhang, T.
+AU  - He, W.
+AU  - Zhang, Z.
+TI  - YOLOv7-UAV: An unmanned aerial vehicle image object detection algorithm based on improved YOLOv7
+T2  - Electronics
+PY  - 2023
+DO  - 10.3390/electronics12143141
+UR  - https://doi.org/10.3390/electronics12143141
+L1  - https://www.mdpi.com/2079-9292/12/14/3141/pdf
+ER  - 
+
+TY  - JOUR
+AU  - Guo, J.
+AU  - Liu, X.
+AU  - Bi, L.
+AU  - Liu, H.
+AU  - Lou, H.
+TI  - UN-YOLOv5s: A UAV-based aerial photography detection algorithm
+T2  - Sensors
+PY  - 2023
+DO  - 10.3390/s23135907
+UR  - https://doi.org/10.3390/s23135907
+L1  - https://www.mdpi.com/1424-8220/23/13/5907/pdf
+ER  - 
+
+TY  - JOUR
+AU  - Xu, W.
+AU  - Cui, C.
+AU  - Ji, Y.
+AU  - Li, X.
+AU  - Li, S.
+TI  - YOLOv8-MPEB small target detection algorithm based on UAV images
+T2  - Heliyon
+PY  - 2024
+DO  - 10.1016/j.heliyon.2024.e29501
+UR  - https://doi.org/10.1016/j.heliyon.2024.e29501
+L1  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11046113/pdf/
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Zuo, G.
+TI  - Small target detection in UAV view based on improved YOLOv8 algorithm
+T2  - Scientific Reports
+PY  - 2025
+DO  - 10.1038/s41598-024-84747-9
+UR  - https://doi.org/10.1038/s41598-024-84747-9
+L1  - https://link.springer.com/article/10.1038/s41598-024-84747-9
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, G.
+AU  - Peng, Y.
+AU  - Li, J.
+TI  - YOLO-MARS: An enhanced YOLOv8n for small object detection in UAV aerial imagery
+T2  - Sensors
+PY  - 2025
+DO  - 10.3390/s25082534
+UR  - https://doi.org/10.3390/s25082534
+L1  - https://www.mdpi.com/1424-8220/25/8/2534/pdf
+ER  - 
+
+TY  - JOUR
+AU  - Meng, X.
+AU  - Yuan, F.
+AU  - Zhang, D.
+TI  - Improved model MASW YOLO for small target detection in UAV images based on YOLOv8
+T2  - Scientific Reports
+PY  - 2025
+DO  - 10.1038/s41598-025-10428-w
+UR  - https://doi.org/10.1038/s41598-025-10428-w
+L1  - https://link.springer.com/article/10.1038/s41598-025-10428-w
+ER  - 
+
+TY  - JOUR
+AU  - Chen, B.
+AU  - Ma, Z.
+AU  - Li, X.
+TI  - Boosting detection accuracy: An enhanced YOLOv8 for small target detection in remote sensing
+T2  - International Journal of Computational Intelligence Systems
+PY  - 2025
+DO  - 10.1007/s44196-025-00895-4
+UR  - https://doi.org/10.1007/s44196-025-00895-4
+L1  - https://link.springer.com/article/10.1007/s44196-025-00895-4
+ER  - 
+
+TY  - JOUR
+AU  - Riskiansyah, R. A.
+AU  - Setiawan, Y.
+AU  - Rahmanti, F. Z.
+TI  - Real-time detection of outdoor parking space availability using YOLOv8
+T2  - JUITA: Jurnal Informatika
+PY  - 2025
+DO  - 10.30595/juita.v13i3.27278
+UR  - https://doi.org/10.30595/juita.v13i3.27278
+L1  - https://jurnalnasional.ump.ac.id/index.php/JUITA/article/download/27278/9303/82324
+ER  - 
+
+TY  - JOUR
+AU  - Al Amin, I. H.
+AU  - Aprilino, A.
+TI  - Implementasi algoritma YOLO dan Tesseract OCR pada sistem deteksi plat nomor otomatis
+T2  - Jurnal Teknoinfo
+PY  - 2022
+DO  - 10.33365/jti.v16i1.1522
+UR  - https://doi.org/10.33365/jti.v16i1.1522
+L1  - https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/viewFile/1522/744
+ER  - 
+
+TY  - JOUR
+AU  - Thoriq, M. Y. A.
+AU  - Siradjuddin, I. A.
+AU  - Permana, K. E.
+TI  - Deteksi wajah manusia berbasis one stage detector menggunakan metode You Only Look Once (YOLO)
+T2  - Jurnal Teknoinfo
+PY  - 2023
+DO  - 10.33365/jti.v17i1.1884
+UR  - https://doi.org/10.33365/jti.v17i1.1884
+L1  - https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/1884
+ER  - 
+
+TY  - JOUR
+AU  - Shi, X.
+AU  - Zhao, R.
+TI  - A small target detection model for UAV aerial photography based on YOLOv5
+T2  - Journal of Shenyang Aerospace University
+PY  - 2024
+DO  - 10.3969/j.issn.2095-1248.2024.02.005
+UR  - https://doi.org/10.3969/j.issn.2095-1248.2024.02.005
+L1  - https://xuebao.sau.edu.cn/EN/abstract/article/2095-1248/1076
+ER  - 
+
+TY  - JOUR
+AU  - Wang, G.
+AU  - Chen, Y.
+AU  - An, P.
+AU  - Hong, H.
+AU  - Hu, J.
+AU  - Huang, T.
+TI  - UAV-YOLOv8: A small-object-detection model based on improved YOLOv8 for UAV aerial photography scenarios
+T2  - Sensors
+PY  - 2023
+DO  - 10.3390/s23167190
+UR  - https://doi.org/10.3390/s23167190
+L1  - https://www.mdpi.com/1424-8220/23/16/7190/pdf
+ER  - 
+
+TY  - JOUR
+AU  - Luo, J.
+AU  - Liu, Z.
+AU  - Wang, Y.
+AU  - Tang, A.
+AU  - Zuo, H.
+AU  - Han, P.
+TI  - Efficient small object detection You Only Look Once: A small object detection algorithm for aerial images
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24217067
+UR  - https://doi.org/10.3390/s24217067
+L1  - https://www.mdpi.com/1424-8220/24/21/7067/pdf
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, H.
+AU  - Xiao, P.
+AU  - Yao, F.
+AU  - Zhang, Q.
+AU  - Gong, Y.
+TI  - Fusion of multi-scale attention for aerial images small-target detection model based on PARE-YOLO
+T2  - Scientific Reports
+PY  - 2025
+DO  - 10.1038/s41598-025-88857-w
+UR  - https://doi.org/10.1038/s41598-025-88857-w
+L1  - https://link.springer.com/article/10.1038/s41598-025-88857-w
+ER  - 
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Zhang, J.
+AU  - Shao, Y.
+AU  - Liu, F.
+TI  - SRE-YOLOv8: An improved UAV object detection model utilizing Swin Transformer and RE-FPN
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24123918
+UR  - https://doi.org/10.3390/s24123918
+L1  - https://www.mdpi.com/1424-8220/24/12/3918/pdf
+ER  - 
+
+TY  - CONF
+AU  - Cao, Y.
+TI  - VisDrone-DET2021: The Vision Meets Drone Object Detection Challenge Results
+T2  - ICCV Workshops
+PY  - 2021
+UR  - https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Cao_VisDrone-DET2021_The_Vision_Meets_Drone_Object_Detection_Challenge_Results_ICCVW_2021_paper.html
+L1  - https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Cao_VisDrone-DET2021_The_Vision_Meets_Drone_Object_Detection_Challenge_Results_ICCVW_2021_paper.html
+ER  - 
+
+TY  - CONF
+AU  - Woo, S.
+AU  - Park, J.
+AU  - Lee, J.-Y.
+AU  - Kweon, I. S.
+TI  - CBAM: Convolutional block attention module
+T2  - European Conference on Computer Vision (ECCV)
+PY  - 2018
+DO  - 10.1007/978-3-030-01234-2_1
+UR  - https://doi.org/10.1007/978-3-030-01234-2_1
+L1  - https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
+ER  - 
+
+TY  - UNPB
+AU  - Tong, Z.
+AU  - Chen, Y.
+AU  - Xu, Z.
+AU  - Yu, R.
+TI  - Wise-IoU: Bounding box regression loss with dynamic focusing mechanism
+T2  - arXiv
+PY  - 2023
+DO  - 10.48550/arXiv.2301.10051
+UR  - https://doi.org/10.48550/arXiv.2301.10051
+L1  - https://arxiv.org/pdf/2301.10051
+ER  - 
+
+TY  - CONF
+AU  - Zheng, Z.
+AU  - Wang, P.
+AU  - Liu, W.
+AU  - Li, J.
+AU  - Ye, R.
+AU  - Ren, D.
+TI  - Distance-IoU loss: Faster and better learning for bounding box regression
+T2  - AAAI Conference on Artificial Intelligence
+PY  - 2020
+DO  - 10.1609/aaai.v34i07.6999
+UR  - https://doi.org/10.1609/aaai.v34i07.6999
+L1  - https://ojs.aaai.org/index.php/AAAI/article/view/6999
+ER  - 
+
+TY  - CONF
+AU  - Akyön, F.
+AU  - Altınuç, S. O.
+AU  - Temizel, A.
+TI  - Slicing aided hyper inference and fine-tuning for small object detection
+T2  - IEEE International Conference on Image Processing (ICIP)
+PY  - 2022
+DO  - 10.1109/ICIP46576.2022.9897990
+UR  - https://doi.org/10.1109/ICIP46576.2022.9897990
+L1  - https://arxiv.org/pdf/2202.06934
+ER  - 
+

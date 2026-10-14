@@ -1,0 +1,7 @@
+{
+  "far_model_2_p2_baseline": 0.3785,
+  "far_model_3_p2_cbam": 0.4464,
+  "far_relative_gain_percent": 17.95,
+  "evaluated_test_images": 98,
+  "scientific_interpretation": "Modul CBAM Attention secara empiris meningkatkan konsentrasi energi aktivasi pada objek foreground sebesar +17.95%, membuktikan penekanan background clutter secara kuantitatif."
+}

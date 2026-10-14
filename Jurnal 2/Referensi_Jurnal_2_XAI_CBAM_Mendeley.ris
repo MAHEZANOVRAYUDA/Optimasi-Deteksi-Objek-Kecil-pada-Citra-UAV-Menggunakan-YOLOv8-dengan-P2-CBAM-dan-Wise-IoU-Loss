@@ -1,0 +1,308 @@
+TY  - CONF
+AU  - Woo, S.
+AU  - Park, J.
+AU  - Lee, J.-Y.
+AU  - Kweon, I. S.
+TI  - CBAM: Convolutional Block Attention Module
+T2  - European Conference on Computer Vision (ECCV)
+PY  - 2018
+DO  - 10.1007/978-3-030-01234-2_1
+UR  - https://mlanthology.org/eccv/2018/woo2018eccv-cbam/
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, P.
+AU  - Wen, L.
+AU  - Du, D.
+AU  - Bian, X.
+AU  - Fan, H.
+AU  - Hu, Q.
+AU  - Ling, H.
+TI  - Detection and Tracking Meet Drones Challenge
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+PY  - 2022
+DO  - 10.1109/TPAMI.2021.3119563
+UR  - https://pubmed.ncbi.nlm.nih.gov/34648430/
+ER  - 
+
+TY  - CONF
+AU  - Cao, Y.
+AU  - He, Z.
+AU  - Wang, L.
+AU  - Wang, W.
+AU  - Yuan, Y.
+AU  - Zhang, D.
+AU  - Zhang, J.
+AU  - Zhu, P.
+TI  - VisDrone-DET2021: The Vision Meets Drone Object Detection Challenge Results
+T2  - IEEE/CVF International Conference on Computer Vision Workshops
+PY  - 2021
+DO  - 10.1109/ICCVW54120.2021.00319
+UR  - https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Cao_VisDrone-DET2021_The_Vision_Meets_Drone_Object_Detection_Challenge_Results_ICCVW_2021_paper.html
+ER  - 
+
+TY  - JOUR
+AU  - Höhl, A.
+AU  - Obadic, I.
+AU  - Fernández-Torres, M.-Á.
+AU  - Najjar, H.
+AU  - Oliveira, D. A. B.
+AU  - Akata, Z.
+AU  - Dengel, A.
+AU  - Zhu, X. X.
+TI  - Opening the Black Box: A Systematic Review on Explainable Artificial Intelligence in Remote Sensing
+T2  - IEEE Geoscience and Remote Sensing Magazine
+PY  - 2024
+DO  - 10.1109/MGRS.2024.3467001
+UR  - https://e-archivo.uc3m.es/entities/publication/1af6d667-4b8d-42f0-bab1-2df10c585192
+ER  - 
+
+TY  - CONF
+AU  - Selvaraju, R. R.
+AU  - Cogswell, M.
+AU  - Das, A.
+AU  - Vedantam, R.
+AU  - Parikh, D.
+AU  - Batra, D.
+TI  - Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization
+T2  - IEEE International Conference on Computer Vision
+PY  - 2017
+DO  - 10.1109/ICCV.2017.74
+UR  - https://mlanthology.org/iccv/2017/selvaraju2017iccv-gradcam/
+ER  - 
+
+TY  - CONF
+AU  - Adebayo, J.
+AU  - Gilmer, J.
+AU  - Muelly, M.
+AU  - Goodfellow, I.
+AU  - Hardt, M.
+AU  - Kim, B.
+TI  - Sanity Checks for Saliency Maps
+T2  - Advances in Neural Information Processing Systems
+PY  - 2018
+UR  - https://papers.nips.cc/paper/2018/hash/294a8ed24b1ad22ec2e7efea049b8737-Abstract.html
+ER  - 
+
+TY  - JOUR
+AU  - Miró-Nicolau, M.
+AU  - Jaume-i-Capó, A.
+AU  - Moyà-Alcover, G.
+TI  - Assessing Fidelity in XAI Post-hoc Techniques: A Comparative Study with Ground Truth Explanations Datasets
+T2  - Artificial Intelligence
+PY  - 2024
+DO  - 10.1016/j.artint.2024.104179
+UR  - https://www.sciencedirect.com/science/article/pii/S0004370224001152
+ER  - 
+
+TY  - JOUR
+AU  - Joshi, G.
+AU  - Joshi, A.
+AU  - Shetty, M.
+AU  - Walambe, R.
+AU  - Kotecha, K.
+AU  - Scotti, F.
+AU  - Piuri, V.
+TI  - Ensemble Learning and EigenCAM-Based Feature Analysis for Improving the Performance and Explainability of Object Detection in Drone Imagery
+T2  - Discover Applied Sciences
+PY  - 2025
+DO  - 10.1007/s42452-025-06879-5
+UR  - https://link.springer.com/article/10.1007/s42452-025-06879-5
+ER  - 
+
+TY  - JOUR
+AU  - Samadzadegan, F.
+AU  - Mahini, F. A.
+AU  - Gholamshahi, M.
+TI  - A Vision-Based Explainable Deep Learning Approach for Multi-Class Drone Detection and Recognition
+T2  - Aerospace Science and Technology
+PY  - 2026
+DO  - 10.1016/j.ast.2026.111648
+UR  - https://www.sciencedirect.com/science/article/pii/S1270963826000295
+ER  - 
+
+TY  - JOUR
+AU  - Fayyaz, A. M.
+AU  - Abdulkadir, S. J.
+AU  - Talpur, N.
+AU  - Al-Selwi, S. M.
+AU  - Hassan, S. U.
+AU  - Sumiea, E. H.
+TI  - Grad-CAM (Gradient-weighted Class Activation Mapping): A Systematic Literature Review
+T2  - Computers in Biology and Medicine
+PY  - 2025
+DO  - 10.1016/j.compbiomed.2025.111200
+UR  - https://pubmed.ncbi.nlm.nih.gov/41108904/
+ER  - 
+
+TY  - JOUR
+AU  - Wu, S.
+AU  - Lu, X.
+AU  - Guo, C.
+AU  - Guo, H.
+TI  - Accurate UAV Small Object Detection Based on HRFPN and EfficentVMamba
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24154966
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11314822/
+ER  - 
+
+TY  - JOUR
+AU  - Yuan, Z.
+AU  - Gong, J.
+AU  - Guo, B.
+AU  - Wang, C.
+AU  - Liao, N.
+AU  - Song, J.
+AU  - Wu, Q.
+TI  - Small Object Detection in UAV Remote Sensing Images Based on Intra-Group Multi-Scale Fusion Attention and Adaptive Weighted Feature Fusion Mechanism
+T2  - Remote Sensing
+PY  - 2024
+DO  - 10.3390/rs16224265
+UR  - https://www.mdpi.com/2072-4292/16/22/4265
+ER  - 
+
+TY  - JOUR
+AU  - Yao, G.
+AU  - Zhu, S.
+AU  - Zhang, L.
+AU  - Qi, M.
+TI  - HP-YOLOv8: High-Precision Small Object Detection Algorithm for Remote Sensing Images
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24154858
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11314757/
+ER  - 
+
+TY  - JOUR
+AU  - Nie, H.
+AU  - Pang, H.
+AU  - Ma, M.
+AU  - Zheng, R.
+TI  - A Lightweight Remote Sensing Small Target Image Detection Algorithm Based on Improved YOLOv8
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24092952
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11086322/
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Zuo, G.
+TI  - Small Target Detection in UAV View Based on Improved YOLOv8 Algorithm
+T2  - Scientific Reports
+PY  - 2025
+DO  - 10.1038/s41598-024-84747-9
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11695675/
+ER  - 
+
+TY  - JOUR
+AU  - Zeng, Y.
+AU  - Zhang, T.
+AU  - He, W.
+AU  - Zhang, Z.
+TI  - YOLOv7-UAV: An Unmanned Aerial Vehicle Image Object Detection Algorithm Based on Improved YOLOv7
+T2  - Electronics
+PY  - 2023
+DO  - 10.3390/electronics12143141
+UR  - https://www.mdpi.com/2079-9292/12/14/3141
+ER  - 
+
+TY  - JOUR
+AU  - Guo, J.
+AU  - Liu, X.
+AU  - Bi, L.
+AU  - Liu, H.
+AU  - Lou, H.
+TI  - UN-YOLOv5s: A UAV-Based Aerial Photography Detection Algorithm
+T2  - Sensors
+PY  - 2023
+DO  - 10.3390/s23135907
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC10346615/
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Z.
+AU  - Bo, K.
+AU  - Hsu, C.-Y.
+AU  - Liao, L.
+TI  - Lightweight Unmanned Aerial Vehicle Object Detection Algorithm Based on Improved YOLOv8
+T2  - Intelligent Data Analysis
+PY  - 2025
+DO  - 10.3233/IDA-230929
+UR  - https://journals.sagepub.com/doi/10.3233/IDA-230929
+ER  - 
+
+TY  - JOUR
+AU  - Muhamad Zamri, F. N.
+AU  - Gunawan, T. S.
+AU  - Yusoff, S. H.
+AU  - Alzahrani, A. A.
+AU  - Bramantoro, A.
+AU  - Kartiwi, M.
+TI  - Enhanced Small Drone Detection Using Optimized YOLOv8 With Attention Mechanisms
+T2  - IEEE Access
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3420730
+UR  - https://ieeexplore.ieee.org/document/10577135
+ER  - 
+
+TY  - JOUR
+AU  - Wei, C.
+AU  - Wang, W.
+TI  - RFAG-YOLO: A Receptive Field Attention-Guided YOLO Network for Small-Object Detection in UAV Images
+T2  - Sensors
+PY  - 2025
+DO  - 10.3390/s25072193
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11991089/
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, G.
+AU  - Peng, Y.
+AU  - Li, J.
+TI  - YOLO-MARS: An Enhanced YOLOv8n for Small Object Detection in UAV Aerial Imagery
+T2  - Sensors
+PY  - 2025
+DO  - 10.3390/s25082534
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12031147/
+ER  - 
+
+TY  - JOUR
+AU  - Wang, G.
+AU  - Chen, Y.
+AU  - An, P.
+AU  - Hong, H.
+AU  - Hu, J.
+AU  - Huang, T.
+TI  - UAV-YOLOv8: A Small-Object-Detection Model Based on Improved YOLOv8 for UAV Aerial Photography Scenarios
+T2  - Sensors
+PY  - 2023
+DO  - 10.3390/s23167190
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC10458807/
+ER  - 
+
+TY  - JOUR
+AU  - Qu, S.
+AU  - Dang, C.
+AU  - Chen, W.
+AU  - Liu, Y.
+TI  - SMA-YOLO: An Improved YOLOv8 Algorithm Based on Parameter-Free Attention Mechanism and Multi-Scale Feature Fusion for Small Object Detection in UAV Images
+T2  - Remote Sensing
+PY  - 2025
+DO  - 10.3390/rs17142421
+UR  - https://www.mdpi.com/2072-4292/17/14/2421
+ER  - 
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Zhang, J.
+AU  - Shao, Y.
+AU  - Liu, F.
+TI  - SRE-YOLOv8: An Improved UAV Object Detection Model Utilizing Swin Transformer and RE-FPN
+T2  - Sensors
+PY  - 2024
+DO  - 10.3390/s24123918
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11207483/
+ER  - 
+

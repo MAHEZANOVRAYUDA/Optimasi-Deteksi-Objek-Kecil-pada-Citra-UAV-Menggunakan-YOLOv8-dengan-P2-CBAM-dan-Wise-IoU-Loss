@@ -1,0 +1,5 @@
+Model,Precision,Recall,mAP@0.50,mAP@0.50:0.95,mAP_Small
+Model 1 Baseline,0.379,0.2774,0.2586,0.1481,0.2198
+Model 2 P2,0.4848,0.1886,0.1624,0.0815,0.1375
+Model 3 P2 CBAM,0.3975,0.2014,0.1705,0.0861,0.1437
+Model 4 Proposed Full,0.4868,0.1926,0.1596,0.0772,0.1416

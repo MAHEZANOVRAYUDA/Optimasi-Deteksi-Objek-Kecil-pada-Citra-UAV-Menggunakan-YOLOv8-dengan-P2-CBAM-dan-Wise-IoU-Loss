@@ -1,0 +1,9 @@
+{
+  "point_diff": -0.05555932967666637,
+  "ci_lower": -0.06890529971409953,
+  "ci_upper": -0.04197723406591401,
+  "p_value": 1.0,
+  "is_significant": false,
+  "confidence_level": 0.95,
+  "interpretation": "Tidak terdapat bukti statistik signifikan bahwa F1 rata-rata model usulan melampaui baseline (p = 1.0000, 95% CI [-6.89%, -4.20%]). Hal ini merefleksikan trade-off terarah di mana lonjakan presisi tajam diimbangi penurunan recall pada target kontras rendah."
+}

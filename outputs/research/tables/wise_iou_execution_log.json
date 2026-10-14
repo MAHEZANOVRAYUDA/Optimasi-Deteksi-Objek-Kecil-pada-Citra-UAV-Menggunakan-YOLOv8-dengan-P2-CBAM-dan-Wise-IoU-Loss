@@ -1,0 +1,9 @@
+{
+  "module": "WiseIoUBboxLoss (v3 Dynamic Non-Monotonic)",
+  "alpha": 1.9,
+  "delta": 3.0,
+  "total_runtime_calls": 1760,
+  "gradient_flow_verified": true,
+  "loss_formula": "r * exp(center_dist^2 / diag^2) * (1 - IoU)",
+  "audit_verdict": "PASS - Loss function dynamically invoked with active gradient flow"
+}

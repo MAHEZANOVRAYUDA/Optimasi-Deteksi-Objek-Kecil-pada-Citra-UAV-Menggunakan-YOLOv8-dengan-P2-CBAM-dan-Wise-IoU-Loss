@@ -1,0 +1,249 @@
+{
+  "communities": {
+    "0": [
+      "any",
+      "modules_cbam_rationale_94",
+      "modules_cbam_register_cbam_to_ultralytics",
+      "modules_metrics",
+      "modules_metrics_compute_map_small",
+      "modules_metrics_compute_per_image_accuracy_scores",
+      "modules_metrics_export_latex_table",
+      "modules_metrics_paired_bootstrap_significance",
+      "modules_metrics_py_dataframe",
+      "modules_metrics_rationale_1",
+      "modules_metrics_rationale_158",
+      "modules_metrics_rationale_229",
+      "modules_metrics_rationale_26",
+      "modules_metrics_rationale_281",
+      "ndarray",
+      "path",
+      "scripts_evaluate_research",
+      "scripts_evaluate_research_main",
+      "scripts_evaluate_research_rationale_1",
+      "scripts_run_phase3_evaluation",
+      "scripts_run_phase3_evaluation_get_activation",
+      "scripts_run_phase3_evaluation_rationale_1"
+    ],
+    "1": [
+      "modules_cbam",
+      "modules_cbam_cbam",
+      "modules_cbam_cbam_forward",
+      "modules_cbam_cbam_init",
+      "modules_cbam_channelattention",
+      "modules_cbam_channelattention_forward",
+      "modules_cbam_channelattention_init",
+      "modules_cbam_py_tensor",
+      "modules_cbam_rationale_1",
+      "modules_cbam_rationale_18",
+      "modules_cbam_rationale_47",
+      "modules_cbam_rationale_71",
+      "modules_cbam_spatialattention",
+      "modules_cbam_spatialattention_forward",
+      "modules_cbam_spatialattention_init"
+    ],
+    "2": [
+      "modules_models",
+      "modules_models_prepare_pretrained_checkpoint",
+      "modules_models_rationale_1",
+      "modules_models_rationale_138",
+      "modules_models_rationale_19",
+      "modules_models_setup_ablation_model",
+      "modules_wise_iou",
+      "modules_wise_iou_attach_wise_iou_to_model",
+      "modules_wise_iou_rationale_1",
+      "modules_wise_iou_rationale_122",
+      "scripts_train_research",
+      "scripts_train_research_rationale_1",
+      "yolo"
+    ],
+    "3": [
+      "bboxloss",
+      "modules_wise_iou_rationale_14",
+      "modules_wise_iou_rationale_34",
+      "modules_wise_iou_rationale_96",
+      "modules_wise_iou_wiseioubboxloss",
+      "modules_wise_iou_wiseioubboxloss_forward",
+      "modules_wise_iou_wiseioubboxloss_init",
+      "modules_wise_iou_wiseiouloss",
+      "modules_wise_iou_wiseiouloss_forward",
+      "modules_wise_iou_wiseiouloss_init",
+      "tensor"
+    ],
+    "4": [
+      "modules_dataset",
+      "modules_dataset_convert_visdrone_bbox_to_yolo",
+      "modules_dataset_download_and_extract_visdrone",
+      "modules_dataset_prepare_visdrone_subset",
+      "modules_dataset_py_path",
+      "modules_dataset_rationale_1",
+      "modules_dataset_rationale_154",
+      "modules_dataset_rationale_38",
+      "modules_dataset_rationale_57",
+      "modules_dataset_rationale_92",
+      "modules_dataset_setup_uav_dataset"
+    ],
+    "5": [
+      "modules_eda",
+      "modules_eda_analyze_uav_labels",
+      "modules_eda_plot_uav_eda",
+      "modules_eda_py_any",
+      "modules_eda_rationale_1",
+      "modules_eda_rationale_14",
+      "modules_eda_rationale_76"
+    ],
+    "6": [
+      "scripts_embed_execution_outputs",
+      "scripts_embed_execution_outputs_make_html_display",
+      "scripts_embed_execution_outputs_make_image_display",
+      "scripts_embed_execution_outputs_make_stream",
+      "scripts_embed_execution_outputs_py_dataframe",
+      "scripts_embed_execution_outputs_rationale_1",
+      "scripts_embed_execution_outputs_to_base64"
+    ],
+    "7": [
+      "scripts_build_notebook",
+      "scripts_build_notebook_build_notebook",
+      "scripts_build_notebook_rationale_1"
+    ],
+    "8": [
+      "scripts_run_headless_verification",
+      "scripts_run_headless_verification_rationale_1"
+    ],
+    "9": [
+      "modules_metrics_py_any"
+    ],
+    "10": [
+      "modules_models_py_path"
+    ],
+    "11": [
+      "modules_wise_iou_py_tensor"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1645021645021645,
+    "1": 0.19047619047619047,
+    "2": 0.21794871794871795,
+    "3": 0.2,
+    "4": 0.2727272727272727,
+    "5": 0.3333333333333333,
+    "6": 0.3333333333333333,
+    "7": 0.6666666666666666,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0
+  },
+  "gods": [
+    {
+      "id": "scripts_evaluate_research_main",
+      "label": "main()",
+      "degree": 8
+    },
+    {
+      "id": "modules_metrics_compute_map_small",
+      "label": "compute_map_small()",
+      "degree": 7
+    },
+    {
+      "id": "modules_metrics_paired_bootstrap_significance",
+      "label": "paired_bootstrap_significance()",
+      "degree": 7
+    },
+    {
+      "id": "modules_metrics_export_latex_table",
+      "label": "export_latex_table()",
+      "degree": 7
+    },
+    {
+      "id": "modules_models_setup_ablation_model",
+      "label": "setup_ablation_model()",
+      "degree": 7
+    },
+    {
+      "id": "modules_metrics_compute_per_image_accuracy_scores",
+      "label": "compute_per_image_accuracy_scores()",
+      "degree": 6
+    },
+    {
+      "id": "modules_models_prepare_pretrained_checkpoint",
+      "label": "prepare_pretrained_checkpoint()",
+      "degree": 6
+    },
+    {
+      "id": "modules_cbam_channelattention",
+      "label": "ChannelAttention",
+      "degree": 5
+    },
+    {
+      "id": "modules_cbam_spatialattention",
+      "label": "SpatialAttention",
+      "degree": 5
+    },
+    {
+      "id": "modules_cbam_register_cbam_to_ultralytics",
+      "label": "register_cbam_to_ultralytics()",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "main()",
+      "target": "register_cbam_to_ultralytics()",
+      "source_files": [
+        "scripts/evaluate_research.py",
+        "modules/cbam.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "main()",
+      "target": "compute_map_small()",
+      "source_files": [
+        "scripts/evaluate_research.py",
+        "modules/metrics.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "main()",
+      "target": "compute_per_image_accuracy_scores()",
+      "source_files": [
+        "scripts/evaluate_research.py",
+        "modules/metrics.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "main()",
+      "target": "paired_bootstrap_significance()",
+      "source_files": [
+        "scripts/evaluate_research.py",
+        "modules/metrics.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "main()",
+      "target": "export_latex_table()",
+      "source_files": [
+        "scripts/evaluate_research.py",
+        "modules/metrics.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
